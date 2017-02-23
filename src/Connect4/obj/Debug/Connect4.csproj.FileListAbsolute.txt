@@ -1,0 +1,8 @@
+D:\Development\Connect4\Connect4\bin\Debug\Connect4.exe.config
+D:\Development\Connect4\Connect4\bin\Debug\Connect4.exe
+D:\Development\Connect4\Connect4\bin\Debug\Connect4.pdb
+D:\Development\Connect4\Connect4\bin\Debug\Logic.dll
+D:\Development\Connect4\Connect4\bin\Debug\Logic.pdb
+D:\Development\Connect4\Connect4\obj\Debug\Connect4.csprojResolveAssemblyReference.cache
+D:\Development\Connect4\Connect4\obj\Debug\Connect4.exe
+D:\Development\Connect4\Connect4\obj\Debug\Connect4.pdb

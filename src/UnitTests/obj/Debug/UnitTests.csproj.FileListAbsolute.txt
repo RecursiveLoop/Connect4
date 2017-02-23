@@ -1,0 +1,14 @@
+D:\Development\Connect4\UnitTests\bin\Debug\UnitTests.dll
+D:\Development\Connect4\UnitTests\bin\Debug\UnitTests.pdb
+D:\Development\Connect4\UnitTests\bin\Debug\Logic.dll
+D:\Development\Connect4\UnitTests\bin\Debug\Logic.pdb
+D:\Development\Connect4\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+D:\Development\Connect4\UnitTests\obj\Debug\UnitTests.dll
+D:\Development\Connect4\UnitTests\obj\Debug\UnitTests.pdb
+C:\Development\Connect4\UnitTests\bin\Debug\UnitTests.dll
+C:\Development\Connect4\UnitTests\bin\Debug\UnitTests.pdb
+C:\Development\Connect4\UnitTests\bin\Debug\Logic.dll
+C:\Development\Connect4\UnitTests\bin\Debug\Logic.pdb
+C:\Development\Connect4\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+C:\Development\Connect4\UnitTests\obj\Debug\UnitTests.dll
+C:\Development\Connect4\UnitTests\obj\Debug\UnitTests.pdb
