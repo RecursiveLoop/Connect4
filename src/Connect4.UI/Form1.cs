@@ -162,11 +162,14 @@ namespace Connect4.UI
 
         private void pb_Render_MouseClick(object sender, MouseEventArgs e)
         {
+
             // Need to figure out which row it was clicked on based on the coordinates of the mouse click
-            var horizontalSpacing = Convert.ToDouble(this.pb_Render.Width) / Convert.ToDouble(theGame.Board.Width);
-            int rowIndex = Convert.ToInt32(Math.Floor(Convert.ToDouble(e.X) / horizontalSpacing));
-            if (this.theGame != null)
+
+            if (this.theGame != null && this.theGame.Board!=null)
             {
+                var horizontalSpacing = Convert.ToDouble(this.pb_Render.Width) / Convert.ToDouble(theGame.Board.Width);
+                int rowIndex = Convert.ToInt32(Math.Floor(Convert.ToDouble(e.X) / horizontalSpacing));
+
                 Disc newDisc = null;
                 if (this.theGame.CurrentState == Enums.GameStates.RedsTurn)
                 {

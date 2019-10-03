@@ -8,3 +8,8 @@ C:\Development\Connect4\Logic\bin\Debug\Logic.pdb
 C:\Development\Connect4\Logic\obj\Debug\Logic.csprojResolveAssemblyReference.cache
 C:\Development\Connect4\Logic\obj\Debug\Logic.dll
 C:\Development\Connect4\Logic\obj\Debug\Logic.pdb
+C:\Development\Connect4\src\Logic\bin\Debug\Logic.dll
+C:\Development\Connect4\src\Logic\bin\Debug\Logic.pdb
+C:\Development\Connect4\src\Logic\obj\Debug\Logic.csprojAssemblyReference.cache
+C:\Development\Connect4\src\Logic\obj\Debug\Logic.dll
+C:\Development\Connect4\src\Logic\obj\Debug\Logic.pdb
